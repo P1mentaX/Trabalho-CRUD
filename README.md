@@ -28,23 +28,29 @@ O projeto foi explicado em vídeos curtos, disponíveis no YouTube (não listado
 Aqui estão alguns prints do sistema. Substitua os links pelas imagens reais hospedadas no GitHub ou online:  
 
 **Tela de Login**  
-![TelaLogin]<img width="779" height="474" alt="image" src="https://github.com/user-attachments/assets/4381992d-752a-4ea8-a10e-192ce2ffb880" />
+Tela de Login: 
+<img width="779" height="474" alt="image" src="https://github.com/user-attachments/assets/4381992d-752a-4ea8-a10e-192ce2ffb880" />
 
 
 **Tela Principal / Menu**  
-![TelaPrincipal]<img width="691" height="348" alt="image" src="https://github.com/user-attachments/assets/66ccafa1-dc1a-4d7e-aabd-9eeaa7360dda" />
- ![MenuOpcao1]<img width="642" height="768" alt="image" src="https://github.com/user-attachments/assets/9aafb42a-6e11-42e5-8a3c-8a91e1461885" />
- ![MenuOpcao2]<img width="690" height="432" alt="image" src="https://github.com/user-attachments/assets/1922239b-a331-47a1-96c4-2ffff188c2b6" />
+Tela de escolha: 
+<img width="691" height="348" alt="image" src="https://github.com/user-attachments/assets/66ccafa1-dc1a-4d7e-aabd-9eeaa7360dda" />
+Tela de Manipulação de Tabelas:
+<img width="642" height="768" alt="image" src="https://github.com/user-attachments/assets/9aafb42a-6e11-42e5-8a3c-8a91e1461885" />
+Tela de Leitura de Frete:
+<img width="690" height="432" alt="image" src="https://github.com/user-attachments/assets/1922239b-a331-47a1-96c4-2ffff188c2b6" />
 
 
 **Exemplo CRUD de Registros**  
-![AntesDeRegistrar]<img width="1219" height="790" alt="image" src="https://github.com/user-attachments/assets/d27176d4-0f9e-4764-91d9-b0921579e4b5" />
-![MensagemDeCadastro]<img width="1225" height="782" alt="image" src="https://github.com/user-attachments/assets/4a4f4d5f-e69f-45c4-9f34-315d04732f03" />
-![DepoisDeRegistrar]<img width="1215" height="786" alt="image" src="https://github.com/user-attachments/assets/65bd2bcd-348f-4ddb-9a50-90ae654cfeda" />
+Antes De Registrar;
+<img width="1219" height="790" alt="image" src="https://github.com/user-attachments/assets/d27176d4-0f9e-4764-91d9-b0921579e4b5" />
+Mensagem de Confirmação de registro:
+<img width="1225" height="782" alt="image" src="https://github.com/user-attachments/assets/4a4f4d5f-e69f-45c4-9f34-315d04732f03" />
+Depois de Registrar:
+<img width="1215" height="786" alt="image" src="https://github.com/user-attachments/assets/65bd2bcd-348f-4ddb-9a50-90ae654cfeda" />
 
  
 
-> Dica: crie uma pasta `images/` no repositório e coloque os prints lá. Depois altere os links acima apontando para os arquivos corretos.
 
 ---
 
