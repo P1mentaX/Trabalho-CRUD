@@ -17,5 +17,15 @@ A descrição detalhada do projeto, incluindo o **MER** (Modelo Entidade-Relacio
 ## 🎥 Demonstração em Vídeo
 O código foi explicado em vídeos gravados e disponibilizados no YouTube (não listados):  
 - [Parte 1]( https://youtu.be/0nG_crfFQ80?si=Tb2rAg_vAhFtkVaK )  
-- [Parte 2]( https://youtu.be/rD7D14xJuRk )  
+- [Parte 2]( https://youtu.be/rD7D14xJuRk )
+
+- 📄 **`AtividadeFinal.zip`**: contém o projeto completo do NetBeans e o arquivo executável `PooAtvidade3.jar`.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+- **Java 8+**
+- **NetBeans IDE**
+- **PostgreSQL 17**
+- **Driver JDBC:** `postgresql-42.7.0.jar`
 
